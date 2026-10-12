@@ -22,7 +22,7 @@ Full list: [Google Scholar](https://scholar.google.com/citations?hl=en&user=Iz5a
 **Genomics:** GATK · BWA · SAMtools · bcftools · PLINK · VEP / ANNOVAR · FastQC  
 **Transcriptomics:** DESeq2 · limma · edgeR · Bioconductor · GEO datasets  
 **Networks & structure:** Cytoscape · STRING · PyMOL  
-**Workflow:** Git · Linux · Jupyter · RStudio · Snakemake / Nextflow  
+**Workflow:** Git · Linux · Jupyter · RStudio · Nextflow  
 **Databases:** NCBI · Ensembl · UniProt · dbSNP · ClinVar · gnomAD · GWAS Catalog
 
 ## Contact
