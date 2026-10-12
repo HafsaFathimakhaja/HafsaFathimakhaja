@@ -11,13 +11,19 @@ I apply machine learning and statistics to biological and health data, from geno
 - Physiological signal analysis
 
 ## Publications
-- **Beyond the biological clock: circadian control of cellular stress pathways and implications for chronomedicine.** H. F. Khajamainudeen, S. Sunkar. *Biological Rhythm Research*, 2026.
+- **Beyond the biological clock: circadian control of cellular stress pathways and implications for chronomedicine.** K. H. Fathima, S. Sunkar. *Biological Rhythm Research*, 2026.
 - **Estimating Ventilatory Thresholds from Heart Rate Dynamics During Incremental Exercise Using Supervised Learning.** G. G. Sri, H. Fathima, S. Preejith, M. Sivaprakasam. *IEEE MeMeA*, 2026.
 
-Full list: https://scholar.google.com/citations?hl=en&user=Iz5aXRUAAAAJ
+Full list: [Google Scholar](https://scholar.google.com/citations?hl=en&user=Iz5aXRUAAAAJ)
 
-## Tools
-Python · R · Bash · NGS pipelines · scikit-learn · Bioconductor
+## Tools & skills
+**Languages:** Python · R · Bash · SQL  
+**Data & ML:** pandas · NumPy · scikit-learn · XGBoost · TensorFlow · Matplotlib · Seaborn · ggplot2  
+**Genomics:** GATK · BWA · SAMtools · bcftools · PLINK · VEP / ANNOVAR · FastQC  
+**Transcriptomics:** DESeq2 · limma · edgeR · Bioconductor · GEO datasets  
+**Networks & structure:** Cytoscape · STRING · PyMOL  
+**Workflow:** Git · Linux · Jupyter · RStudio · Snakemake / Nextflow  
+**Databases:** NCBI · Ensembl · UniProt · dbSNP · ClinVar · gnomAD · GWAS Catalog
 
 ## Contact
 hafsafathima2004@gmail.com
