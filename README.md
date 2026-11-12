@@ -1,11 +1,7 @@
 <div align="center">
-
 <img src="assets/card.gif" width="880" alt="Hafsa Fathima Khajamainudeen — genome researcher"/>
-
 <img src="assets/whoami.gif" width="880" alt="whoami — about me"/>
-
 <img src="assets/projects.gif" width="880" alt="Projects & Publications"/>
-
 </div>
 
 ## Check out
